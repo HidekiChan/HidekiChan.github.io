@@ -9,7 +9,3 @@ body{
     opacity: 0.95;
     border-radius:2em;
 }
-
-img {
-  filter: HSL(0, 0%, 100%)
-}
