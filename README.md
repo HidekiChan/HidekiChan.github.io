@@ -1,3 +1,3 @@
 # HidekiChan
 
-HidekiChan.github.io
+[Hideki Chan](https://hidekichan.github.io/)
